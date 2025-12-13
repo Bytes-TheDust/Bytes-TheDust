@@ -20,8 +20,8 @@
 ---
 
  - ### About Me ...
- I Love Analyzing Binarys Written In ****C****
- Learning ****Pwnable**** Is So Fun!
+ - I Love Analyzing Binarys Written In ****C****
+ - Learning ****Pwnable**** Is So Fun!
 
 ---
 
