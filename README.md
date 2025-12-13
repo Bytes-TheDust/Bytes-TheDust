@@ -18,12 +18,13 @@
 
 ---
 
-### About Me
+### About Me ...
 - I Love Analyzing Binarys Written In **C**
 - Learning Pwnable Is So Fun!
 
 ---
 
-### GitHub Stats
+### GitHub Stats ...
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bytes-TheDust&show_icons=true&theme=radical)
+
 
