@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=BytesTheDust&fontColor=ffffff&fontSize=40)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F6F6&width=500&lines=BytesTheDust)](https://git.io/typing-svg)
 
 ---
 
@@ -26,6 +26,3 @@
 
 ### GitHub Stats ... 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bytes-TheDust&show_icons=true&theme=transparent)
-
-
-
