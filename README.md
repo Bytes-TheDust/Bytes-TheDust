@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F6F6&width=500&lines=Hi+there!+I'm+BytesTheDust;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=BytesTheDust&fontColor=ffffff&fontSize=40)
+![Metrics](https://metrics.lecoq.io/Bytes-TheDust)
 
 ---
 
