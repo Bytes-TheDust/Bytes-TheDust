@@ -26,4 +26,4 @@
 ---
 
 ### GitHub Stats ... 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bytes-TheDust&show_icons=true&theme=transparent)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=Bytes-TheDust&show_icons=true&theme=transparent)
