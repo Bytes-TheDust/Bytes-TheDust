@@ -25,6 +25,8 @@
 
 ---
 
-### GitHub Stats ... 
+### GitHub Stats ...
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bytes-TheDust&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytes-TheDust&layout=compact&theme=transparent)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytes-TheDust&theme=github-compact)
