@@ -27,8 +27,4 @@
 
 ### GitHub Stats ...
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Bytes-TheDust&show_icons=true&theme=transparent&cache_seconds=1800"
-  alt="GitHub Stats"
-/>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytes-TheDust&theme=github-compact)
