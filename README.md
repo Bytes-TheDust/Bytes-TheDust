@@ -26,6 +26,5 @@
 ---
 
 ### GitHub Stats ... 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bytes-TheDust&show_icons=true&hide_border=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytes-TheDust&layout=compact&theme=transparent&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bytes-TheDust&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bytes-TheDust&layout=compact&theme=transparent)
